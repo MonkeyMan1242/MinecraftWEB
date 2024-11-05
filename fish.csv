@@ -1,0 +1,19 @@
+item_name,item_description,catch_blurb,loot_table,tier,catch_difficulty,average_size,loot_weight,sell_value,obtain_xp,generate_worth,rare,alive
+Bucket of Cod,Gadus morhua,Get a bucketload of this!,ocean,2,5,30,0.2,16,60,TRUE,FALSE,TRUE
+Bucket of Salmon,Oncorhynchus tshawytscha,Get a bucketload of this!,lake,2,5,30,0.15,20,80,TRUE,FALSE,TRUE
+Bucket of Pufferfish,Tetraodontidae,Get a bucketload of this!,ocean,2,5,30,0.04,36,100,TRUE,FALSE,TRUE
+Bucket of Tropical Fish,Amphiprioninae,Get a bucketload of THIS!,ocean,2,5,30,0.02,44,100,TRUE,FALSE,TRUE
+Cod,Gadus morhua,pew pew,ocean,0,3,30,0.8,8,30,TRUE,FALSE,TRUE
+Cooked Cod,Gadus morhua,How is it cooked already?,ocean,0,2,30,0.6,10,35,TRUE,FALSE,TRUE
+Salmon,Oncorhynchus tshawytscha,Haven't I seen this one before?,lake,0,3,30,0.4,10,40,TRUE,FALSE,TRUE
+Cooked Salmon,Oncorhynchus tshawytscha,How is it cooked already?,lake,0,2,30,0.3,12,45,TRUE,FALSE,TRUE
+Pufferfish,Tetraodontidae,Be careful handling this one!,ocean,1,4,30,0.15,18,50,TRUE,FALSE,TRUE
+Tropical Fish,Amphiprioninae,You can't quite make out what species this fish actually is...,ocean,1,4,30,0.1,22,50,TRUE,FALSE,TRUE
+Enchanted Book,Treasure!,Doesn't look very enchanted to me…,water_trash,0,1,30,0.4,20,30,FALSE,FALSE,FALSE
+Bow,Treasure!,Too rigid to be used by you…,water_trash,0,1,30,0.4,10,30,FALSE,FALSE,FALSE
+Nautilus Shell,Treasure!,Naughty nautilus!,water_trash,0,1,30,0.4,20,30,FALSE,FALSE,FALSE
+Name Tag,Treasure!,Huh? This title card is blank. What a scam!,water_trash,0,1,30,0.4,10,30,FALSE,FALSE,FALSE
+Saddle,Treasure!,Giddy up!,water_trash,0,1,30,0.4,20,30,FALSE,FALSE,FALSE
+Heart of the Sea,Treasure!,Conduit power!,ocean,1,1,30,0.2,50,30,FALSE,FALSE,FALSE
+Chest,Treasure!,You can't seem to open this one...,ocean,1,1,30,0.2,50,30,FALSE,FALSE,FALSE
+Diamond,Treasure!,Mining (fishing) for diamonds!,water_trash,1,1,30,0.1,100,50,FALSE,TRUE,FALSE
